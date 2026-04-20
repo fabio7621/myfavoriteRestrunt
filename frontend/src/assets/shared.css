@@ -1,0 +1,52 @@
+/* 共用按鈕樣式（全域） */
+.btn-primary {
+  flex: 1;
+  padding: 12px;
+  border: 1px solid var(--fg);
+  background: var(--fg);
+  color: var(--bg);
+  cursor: pointer;
+  font-size: 13px;
+  letter-spacing: 0.1em;
+  font-family: var(--font-sans);
+  transition: opacity 0.2s;
+}
+.btn-primary:disabled { opacity: 0.5; cursor: not-allowed; }
+
+.btn-secondary {
+  flex: 1;
+  padding: 12px;
+  border: 1px solid var(--border);
+  background: none;
+  color: var(--fg2);
+  cursor: pointer;
+  font-size: 13px;
+  letter-spacing: 0.1em;
+  font-family: var(--font-sans);
+}
+
+.btn-outline {
+  border: 1px solid var(--fg);
+  background: none;
+  cursor: pointer;
+  padding: 10px 24px;
+  font-size: 12px;
+  letter-spacing: 0.12em;
+  font-family: var(--font-sans);
+  color: var(--fg);
+  transition: background 0.2s, color 0.2s;
+}
+.btn-outline:hover { background: var(--fg); color: var(--bg); }
+
+/* 共用 section 標題 */
+.section-label {
+  font-size: 11px;
+  letter-spacing: 0.2em;
+  color: var(--fg3);
+  margin-bottom: 8px;
+}
+.section-title {
+  font-family: var(--font-serif);
+  font-size: 32px;
+  font-weight: 300;
+}

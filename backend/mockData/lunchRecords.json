@@ -1,0 +1,93 @@
+[
+  {
+    "id": "1",
+    "date": "2026-03-18",
+    "restaurant_id": "1",
+    "restaurant_name": "飛鳥食堂",
+    "address": "高雄市三民區建工路1號",
+    "tags": [
+      "日式",
+      "清淡"
+    ],
+    "photos": [],
+    "note": "湯頭很棒，份量適中"
+  },
+  {
+    "id": "2",
+    "date": "2026-03-19",
+    "restaurant_id": "2",
+    "restaurant_name": "丸龜製麵",
+    "address": "高雄市苓雅區中正二路120號",
+    "tags": [
+      "日式",
+      "烏龍麵"
+    ],
+    "photos": [],
+    "note": "天婦羅很酥脆"
+  },
+  {
+    "id": "3",
+    "date": "2026-03-20",
+    "restaurant_id": "3",
+    "restaurant_name": "老四川麻辣鍋",
+    "address": "高雄市新興區中山一路2號",
+    "tags": [
+      "川菜",
+      "辣",
+      "鍋物"
+    ],
+    "photos": [],
+    "note": "夠辣！"
+  },
+  {
+    "id": "4",
+    "date": "2026-03-24",
+    "restaurant_id": "4",
+    "restaurant_name": "春水堂",
+    "address": "高雄市前金區中華三路35號",
+    "tags": [
+      "台式",
+      "飲料",
+      "清淡"
+    ],
+    "photos": [],
+    "note": "珍奶好喝"
+  },
+  {
+    "id": "5",
+    "date": "2026-03-25",
+    "restaurant_id": "1",
+    "restaurant_name": "飛鳥食堂",
+    "address": "高雄市三民區建工路1號",
+    "tags": [
+      "日式",
+      "清淡"
+    ],
+    "photos": [],
+    "note": "再來一次，今天點了定食"
+  },
+  {
+    "id": "1774496060700",
+    "date": "2026-03-26",
+    "restaurant_id": "1774496017025",
+    "restaurant_name": "黑狗酒吧",
+    "address": "高雄市鹽埕區七賢三路55號",
+    "tags": [
+      "爽"
+    ],
+    "photos": [],
+    "note": "一堆酒"
+  },
+  {
+    "id": "1776671313319",
+    "date": "2026-04-23",
+    "restaurant_id": "2",
+    "restaurant_name": "丸龜製麵",
+    "address": "高雄市苓雅區中正二路120號",
+    "tags": [
+      "麵類"
+    ],
+    "photos": [],
+    "note": "好好吃"
+  }
+]
